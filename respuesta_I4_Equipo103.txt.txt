@@ -1,6 +1,18 @@
 A) Azul
 B) Amarillo
-C) Azul
+C) Decidimos dejarlo con el color azul, ya que, al hacer el merge se generaba un conflicto: 
+
+<<<<<<< HEAD 
+
+  background:yellow; 
+
+======= 
+
+  background:blue; 
+
+>>>>>>> TESTING 
+
+lo que hace que se quede en blanco. Dado que es un conflicto decidimos dejarle el ultimo color con el que se hizo el merge 
 D) Quedan los dos favicon
 E) beta
 F) 
