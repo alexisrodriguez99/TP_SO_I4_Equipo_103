@@ -2,3 +2,15 @@ A) Azul
 B) Amarillo
 C) Azul
 D) Quedan los dos favicon
+E) beta
+F) 
+error: failed to push some refs to 'https://github.com/alexisrodriguez99/TP_SO_I4_Equipo_103.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+G) hacer un push -f q causa un sobreescritura y elimina cualquier cambio q otro integrante hizo, o actualizar primero el repositorio y despues realizar el push
+H) quedaria el ultimo push realizado
+I) coordianr enter los 3 y hacer primero el pull, despues modificarlo y por ultimo pushearlo
